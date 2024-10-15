@@ -1,7 +1,7 @@
 ## Hellou I,m Tobedev 👋
 
 
-![Logo](https://www.canva.com/design/DAGTphHicmk/XDs9EXPAD21kr9B0TvaDyA/view?utm_content=DAGTphHicmk&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+![Logo](/Blue and Yellow Brain Technology Artificial Intelligence Logo.png)
 <!--
 **benja200626/benja200626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
