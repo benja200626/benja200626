@@ -1,7 +1,7 @@
 ## Hellou I,m Tobedev 👋
 
 
-![Logo](/Blue and Yellow Brain Technology Artificial Intelligence Logo.png)
+![Logo](/logo.png)
 <!--
 **benja200626/benja200626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
